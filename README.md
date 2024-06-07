@@ -9,7 +9,8 @@ I'm a **Full Stack Web Developer** and an **Open-Source Enthusiast**. My passion
 - **Front-end**: Vue.js, React.js, Next.js, SCSS, tailwind css, bootstrap, GSAP, etc
 - **Back-end**: Node.js, PHP, Django
 - **CMS**: WordPress (Custom Theme and Plugin Development)
-- **OTHER**: WebRTC, Socket.IO, WebSocket
+- **DATABASE**: SQL, MongoDB
+- **OTHER**: WebRTC, Socket.IO, WebSocket, MERN
 
 ---
 
