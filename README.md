@@ -19,8 +19,6 @@ I'm a **Full Stack Web Developer** and an **Open-Source Enthusiast**. My passion
 I'm always eager to learn new technologies and improve my skills. Right now, I'm diving deeper into:
 
 - Advanced Python and Django
-- Modern PHP Practices
-- Full-stack development with Node.js and mongodb
 - OpenCV-Python object detection with jetson nano
 
 ---
